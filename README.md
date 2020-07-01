@@ -1,4 +1,4 @@
-Related ideas with Object Tracking
+<h1>Related ideas with Object Tracking</h1>
 
 1. Dense Optical flow
 2. Sparse optical flow
@@ -7,7 +7,7 @@ Related ideas with Object Tracking
 5. Single object trackers
 6. Multiple object track finding algorithms
 
-Tracking vs Detection
+<h2>Tracking vs Detection</h2>
 
 1. Tracking is faster than detection
 2. Tracking can help when detection fails
@@ -15,7 +15,7 @@ Tracking vs Detection
 
 OpenCV 3.4.1
 
-Test OpenCV’s 8 different trackers.
+<h2>Test OpenCV’s 8 different trackers.</h2>
 
 1. BOOSTING
 
@@ -60,4 +60,5 @@ MOSSE Tracker
 8. CSRT
 
 CSRT Tracker
+
 Reference : https://www.learnopencv.com/object-tracking-using-opencv-cpp-python/
